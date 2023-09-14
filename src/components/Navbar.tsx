@@ -47,7 +47,7 @@ const Navbar = () => {
           className={`${
             isNavOpen
               ? "flex flex-col items-center gap-6 text-center text-3xl text-white"
-              : "hidden text-[#f96442] md:flex items-center gap-8 text-[14px]"
+              : "hidden text-[#f96442] md:flex items-center gap-8 text-xl"
           } font-black`}
         >
           <li className="hover:tracking-wider cursor-pointer transition-all duration-300">
