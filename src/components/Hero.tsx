@@ -24,7 +24,7 @@ const Hero = () => {
           </p>
 
           <Link href="#dish">
-            <button className="bg-accent px-6 py-2 text-white rounded-3xl cursor-pointer hover:tracking-wider hover:bg-white hover:text-accent transition-all duration-300">
+            <button className=" mt-4 px-6 py-2 text-white bg-accent rounded-3xl cursor-pointer hover:tracking-wider hover:bg-white hover:text-accent transition-all duration-300">
               View More
             </button>
           </Link>
