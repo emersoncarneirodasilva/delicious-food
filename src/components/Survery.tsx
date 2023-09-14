@@ -10,7 +10,7 @@ const Survery = () => {
             alt="Survey Image"
             width={1000}
             height={600}
-            className="w-[100%] h-auto lg:w-[130vw] lg:h-[70vh]"
+            className="w-[100%] h-auto lg:w-[80vw] lg:h-[70vh]"
           />
         </div>
 
